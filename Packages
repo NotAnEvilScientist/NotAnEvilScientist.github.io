@@ -20,7 +20,7 @@ Icon: ???!?#$
 
 
 Package: com.jakeashacks.realcc_1.0.2_iphoneos-arm.deb
-Architecture: phones-arm
+Architecture: iphoneos-arm
 Version: 1.0.2
 Section: Tweaks
 Maintainer: TheScientist
