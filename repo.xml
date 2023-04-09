@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Dieses Repo ist überragend!</name>
+			<url>https://NotAnEvilScientist/H1tlersRepo.github.io</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>Ich möchte diese Darstellungsvorlage</name>
+			<url>https://github.com/NotAnEvilScientist/H1tlersRepo.github.io</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+	</footerlinks>
+</repo>

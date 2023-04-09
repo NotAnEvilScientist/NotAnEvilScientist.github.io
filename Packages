@@ -1,0 +1,19 @@
+Package: com.matchstic.xenhtml_1.1.5~release_iphoneos-arm.deb
+Architecture: iphoneos-arm
+Version: 1.1.5~release
+Section: Tweaks
+Maintainer: H1tler
+Installed-Size: 
+Depends: firmware (>= 9.0). mobilesubstrate, preferenceloader, firmware (>= 11.0) | com.ulimapps.uaunbox
+Filename: xenHTML
+Size: 20861342
+MD5sum: 1d623b89683f9ce4e074de1676d12416
+SHA1: c8ce1bd4cbde1947682d8b502a47ba55fcc90a22
+SHA256: b23a8480b000954763ebc209e2db2d0b0d7cfce31b325028e22ae11ad4f3f38a
+SHA512:26c2079496a1fc860f14260cdbd14dce4bdca79af23aa32f5002a937b0e52712daa4f2b507e8eaf3838d6c546157af661dfed83641d5c47d192b088e49ff85c0
+Description: Run HTML widgets on your springboard
+Name: xenHTML
+Author: H1tler
+Depiction: ?????
+SileoDepiction: ????
+Icon: ???!?#$

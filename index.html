@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	  <meta charset="UTF-8">
+	  <title>Matrix Rain Charging</title>
+		  <link rel="stylesheet" href="css/style.css">
+	</head>
+	<body>
+		<canvas id="bCanvas"></canvas>
+		<script src='js/jquery.min.js'></script>
+		<script src="js/index.js"></script>
+		<script type="text/javascript">
+			var doc = document, fooDiv = doc.getElementById('bCanvas');
+			function mainUpdate(type) {
+				if (type == "battery") {
+					if (batteryCharging) {
+						fooDiv.style.display = "block";
+					} else {
+						fooDiv.style.display = "none";
+					}
+				}
+			 }
+		</script>
+	</body>
+</html>
