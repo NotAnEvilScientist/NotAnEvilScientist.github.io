@@ -4,7 +4,7 @@ Version: 1.1.5~release
 Section: Tweaks
 Maintainer: H1tler
 Installed-Size: 
-Depends: mobilesubstrate, preferenceloader, com.ulimapps.uaunbox
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
 Filename: xenHTML
 Size: 20861342
 MD5sum: 1d623b89683f9ce4e074de1676d12416
