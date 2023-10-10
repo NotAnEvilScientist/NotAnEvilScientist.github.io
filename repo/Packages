@@ -1,40 +1,11 @@
-Package: com.matchstic.xenhtml_1.1.5~release_iphoneos-arm.deb
+Package: com.matchstic.xenhtml.deb
 Architecture: iphoneos-arm
 Version: 1.1.5~release
 Section: Tweaks
 Maintainer: TheScientist
 Installed-Size: 
 Depends: firmware ( >=9.0), mobilesubstrate, preferenceloader, firmware ( >= 11.0) | com.unlimapps.uaunbox
-Filename: xenHTML
-Size: 20861342
+Depiction: https://notanevilscientist.github.io/repo/depictions/xenhtml
+Filename: ./debs/com.matchstic.xenhtml.deb
 MD5sum: 1d623b89683f9ce4e074de1676d12416
-SHA1: c8ce1bd4cbde1947682d8b502a47ba55fcc90a22
-SHA256: b23a8480b000954763ebc209e2db2d0b0d7cfce31b325028e22ae11ad4f3f38a
-SHA512:26c2079496a1fc860f14260cdbd14dce4bdca79af23aa32f5002a937b0e52712daa4f2b507e8eaf3838d6c546157af661dfed83641d5c47d192b088e49ff85c0
-Description: Run HTML widgets on your springboard
-Name: xenHTML
-Author: TheScientist
-Depiction: ?????
-SileoDepiction: ????
-Icon: ???!?#$
-
-
-Package: com.jakeashacks.realcc_1.0.2_iphoneos-arm.deb
-Architecture: iphoneos-arm
-Version: 1.0.2
-Section: Tweaks
-Maintainer: TheScientist
-Installed-Size: 102
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
-Filename: RealCC
-Size: 4186
-MD5sum: 1d623b89683f9ce4e074de1676d12416
-SHA1: 8f0161114800f18a38551b01b5192a10f36c85cf
-SHA256: 20bfa5de12cbf0ef2014b29a3f16f6aeb96ec1f7f5bae13988c5d7c89043b886
-SHA512: e3c8c37eb6e5092b892b38c08a25cb76af34072affdb2c15cfdaa2046c6db3de5ae3c96b369df80f27f5c79e90a865b8fa20fd614cb53f92456e8a1ff42367a8
-Description: Disables WiFi and Bluetooth permanently without airplane mode enabled.
-Name: RealCC
-Author: TheScientist
-Depiction: ?>?>????
-SileoDepiction: ?????
-Icon:???>#$
+Size: 1377
