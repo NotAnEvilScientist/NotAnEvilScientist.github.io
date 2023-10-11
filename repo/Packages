@@ -532,4 +532,157 @@ Description: A matrix widget for you home screen, you can edit the text that fal
 Name: MatrixWidget 
 Author: AussieAppz
 
+Package: com.mrgcgamer.libgcuniversal
+Architecture: iphoneos-arm
+Version: 1.6.4
+Section: System
+Maintainer: MrGcGamer
+Installed-Size: 150
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Depiction: No depiction 
+SileoDepiction: No depiction 
+Filename: ./debs/com.mrgcgamer.libgcuniversal.deb
+MD5sum: a2d2a270d748039d4c4e49109921c3fe
+SHA1: 8b03b756f659779bbf04f571c803d9e6085568d 
+SHA256: fe567db5f040b45d27661842db25a65be5dfffa627d32eabf4d20adf8c7f81c
+SHA512: bc215d9462b52b067ef5bc9a75a3efd0b9840ac4087f456c301033dd49bb838575264a846015eca1185db9c4597aaef967fc05a6857106df2c380c5264c58d01
+Size: 59676
+Description: A tweak library used by lots of developers
+Name: LibGcUniversal
+Author: MrGcGamer
+
+Package: ws.hbang.alderis
+Architecture: iphoneos-arm
+Version: 1.2.3
+Section: System,
+Maintainer: HashBang Products 
+Installed-Size: 2922
+Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), uikittools 
+Depiction: No Depiction
+SileoDepiction: No Depiction
+Filename: ./debs/ws.hbang.alderis.deb
+MD5sum: 2118960f52634cfc6122673d61b29ee1
+SHA1: 6fd1b2cb1530483b23e039599984550c691acccb 
+SHA256: 817fca8cdfd01d7632b34acc21853438c2492068c48c37b549a27450a3f7a6e4
+SHA512: f88359fe337f154d45d16f582af45d90b948e8d4b6f8dcbf219e9de8e7ecf41c0551d51844254c87684f965cfaba2b86396659046fa6392daa525bd21227c42c
+Size: 372700
+Description: a color picker
+Name: LibAlderisColorPicker
+Author: HashBang Products
+
+Package: org.swift.libswift
+Architecture: iphoneos-arm
+Version: 5.0-electra2
+Section: System
+Maintainer: CoolStar
+Installed-Size: 120
+Depends: firmware (>= 7.0) 
+Depiction: No Depictions
+SileoDepiction: No Depictions
+Filename: ./debs/org.swift.libswift.deb
+MD5sum: 41d4fb6b08e22467836a200d6bf8db9c
+SHA1: 020e2926035d63cdb59e62b8d6a63cee88f0a14f 
+SHA256: 07adbccbde8682adb44e8dcf0bdd6bef5c909d879ca654e6533f8a52f1884ced
+SHA512: e6fd9eac7836dbdc2d9fceb12849c0a5f4a94fabf114e4e486e75449c0c3e0603f023be5ff2c53c41c6813056868fb61a646dd6142db4bf140ac11e9a5daeda1
+Size: 23330860
+Description: Swift runtime for iOS
+Name: LibSwift
+Author: CoolStar
+
+Package: com.lns.pogr
+Architecture: iphoneos-arm
+Version: 0.3.0
+Section: Tweaks
+Maintainer: LNSSPsd 
+Installed-Size: 616
+Depends: mobilesubstrate (>= 0.9.5000)
+Depiction: No Depictions
+SileoDepiction: No Depictions
+Filename: ./debs/com.lns.pogr.deb
+MD5sum: 2ef85eb056f2202685077ff732f6aac9
+SHA1: 21c1dd8a1fa1fc2e8102c92f0e60c95ded9b9a28
+SHA256: 320e120d69b98f6d0544f603bc2338f998cf81d642c348bf464ff8d1228e33f2
+SHA512: 6f83eb956cf9d09ef02193e880bfec350e9fb10fe8daf1d9b497001f70bab664581f30cb6186a5f8fd3dcc11ee1234127ecce11ebfc1ea728541a399ba528a3d
+Size: 78496
+Description: Have the ability to use the AirPods Pro 2 on versions older than iOS 16. To see if your version is supported, go to https://github.com/LNSSPsd/PodsGrant
+Name: PodGrant
+Author: LNSSPsd
+
+Package: com.ichitaso.otadisabler
+Architecture: iphoneos-arm
+Version: 0.4
+Section: Tweaks
+Maintainer: ichitaso
+Installed-Size: 200
+Depends: firmware (>= 9.0), system-cmds, mobilesubstrate 
+Depiction: No Depictions
+SileoDepiction: No Depictions 
+Filename: ./debs/com.ichitaso.otadisabler.deb
+MD5sum: 0149e8a8fcaf33577bef70ed4ba48c1e
+SHA1: fa50aa7e45eb218c506f0fad726d1ae744ac87d0 
+SHA256: 0b0dabbbd4a7e4a2cd250fdf3799830a9ba124dbe5655dd9f9f8f5c2441aac16
+SHA512: c0302d2a31e848c4cdd93031c80ea1dd0730688803b0a0225eedf47b2c0ecfe70cbbcb77e98d9c42fab2338d254e16cd448e6d8e9745392b42300e448ac34460
+Size: 27638
+Description: Block annoying firmware updates completely
+Name: OTAdisabler 
+Author: ichitaso
+
+Package: com.sop.settingsrevamp 
+Architecture: iphoneos-arm 
+Version: 2.1.1
+Section: Tweaks
+Maintainer: Sopppra
+Installed-Size: 540
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Depiction: No Depictions
+SileoDepiction: No Depictions
+Filename: ./debs/com.sop.settingsrevemp.deb
+MD5sum: 0d085c3ce959fdae95b0fbac5343007e
+SHA1: fa5bcade7a6548d508f3ac74df81a9984144ad12
+SHA256: 1c4f4721b48449ddc461c7d0a3bb4efc719e7eece2e247d187a2f39603ef124e
+SHA512: 21a30fe8b1bea824adf6aa4ba6549a6fcb57ef1a8203391ba5cd1c73f02e31ab3c824f0037947f75ee503e01aea16eaa26f09a86ce0b54270908fd745009880e
+Size: 97230
+Description: Settings app remade 
+Name: SettingsRevemp
+Author: Sopppra
+
+Package: com.sop.statustime 
+Architecture: iphoneos-arm
+Version: 1.4
+Section: Tweaks
+Maintainer: Sopppra
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000) 
+Depiction: No Depictions
+SileoDepiction: No Depictions 
+Filename: ./debs/com.sop.statustime.deb
+MD5sum: 929a1f9db0204649aa11ca5de4dd74f5 
+SHA1: c8c3e15707467a3aa99352cb83afb1fa65593f62
+SHA256: d9377ef4dacfa15a4698a5d3ba2c8816358f946ae3e3ef296d2045f2ef856ca0
+SHA512: c5f0ef5c9bb157aa143dd96c6d02d0552b5185fd40b9065977c888697d69b7a91654d17435233da10b06c33a5eeef78ca9eb21cfb12ec4f2ab89d35c058d19b6
+Size: 35250
+Description: display seconds and date where the time is on the status bar
+Name: StatusTime
+Author: Sopppra
+
+Package: system-cmds
+Architecture: iphoneos-arm 
+Version: 790.30.1-2
+Section: System
+Maintainer: Unknown
+Installed-Size: 2624
+Depends: firmware-sbin  
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depiction: No Depictions
+SileoDepiction: No Depictions 
+Filename: ./debs/system-cmds.deb
+MD5sum: 45e5251b9de0f60e09e7f75a87e8833a
+SHA1: e69a0933943a19191ccfe766556e7ac0ae58e301
+SHA256: 5d657d85f7e57452b76037b78e1bd0ae64421309d7c1f43cff22a6e42d3adeaf
+SHA512: 7f2c759682c1211ceb94626a05b44f60e32a445a6952e77345ba82cfeca485e5e83adacb95516cbf62dd97a37ac665dc91cc2c4c382209626bfea1721a49ebdc
+Size: 94086
+Description: Provides login, passed, and reboot, iostat, and sync
+Name: system-cmds 
+Author: Yo mama
 
