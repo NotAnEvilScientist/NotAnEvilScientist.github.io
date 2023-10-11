@@ -459,7 +459,7 @@ Icon: https://repo.litten.love/depictions/Yuna/assets/icon.png
 Package: com.jakeashacks.realcc.deb
 Architecture: iphoneos-arm
 Version: 1.0.2
-Section: tweaks
+Section: Tweaks
 Maintainer: Blyth3 
 Installed-Size: 
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
