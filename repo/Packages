@@ -513,4 +513,23 @@ Description: Make the lock screen player more simplified and clean
 Name: MiniLSP
 Author: Mr.Zhang
 
+Package: com.aussieappz.CHG-Matrix
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Widgets
+Maintainer: AussieAppz
+Installed-Size: 50
+Depends: com.matchstic.xenhtml
+Depiction: No depiction
+SileoDepiction: No depiction
+Filename: ./debs/com.aussieappz.CHG-Matrix
+MD5sum: 1d623b89683f9ce4e074de1676d12416
+SHA1: feae035e329cf1b4e89889d3385e28a053b369c6 
+SHA256: 97d74d11bc50cf7d5c03c5341abbbc4bd24f078d4dfe5c6ceb7bcef33b5f0e7e
+SHA512: 3c369e2ff30073097bbadcb212f6b06c9982915ab4735f6c11f2a4cb89d1dad7cda0dcdaca68e2507db1c0a92cc7d498165eb34b9744c699fb2779d3eab9948a
+Size: 61762
+Description: A matrix widget for you home screen, you can edit the text that falls at /var/mobile/library/LockHTML/CHG-Matrix/index.js at line 9. Make sure that the text you input stays in the quotation marks other wise the text won't be changed. If you screw something up, don't worry. You can click cancel and discard the changes and try again.
+Name: MatrixWidget 
+Author: AussieAppz
+
 
