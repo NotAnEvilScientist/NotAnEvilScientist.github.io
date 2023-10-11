@@ -509,7 +509,7 @@ SHA1: 7a01a1beb75e520d68f25e91194968bb17a45a57
 SHA256: 7a40f4094289a67c5a26545284e13460bc376df32daba17aa46763ade7be2ec6
 SHA512: e02aba9e5d441e23ce83961bfb41fe61d3e584a4bc9c662d716715332d4848d1ddc6ce4b8461c59a2a80ec972e3824758b19d8ad1f549731b56f5824795bdbda
 Size: 5704
-Description: Make the lock screen player more simplified an clean
+Description: Make the lock screen player more simplified and clean
 Name: MiniLSP
 Author:Mr.Zhang
 
