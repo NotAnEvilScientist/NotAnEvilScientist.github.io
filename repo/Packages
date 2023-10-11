@@ -484,7 +484,7 @@ Installed-Size: 136
 Depends: mobilesubstrate
 Depiction: No depiction
 SileoDepiction: No depiction  
-Filename: ./debs/com.quiop1379.iflooder_1.0.1_iphoneos-arm.deb
+Filename: ./debs/com.quiop1379.iflooder.deb
 MD5sum: 1d623b89683f9ce4e074de1676d12416
 SHA1: 19de4ba08c6ae682ed76effa4164a954ff204d0
 SHA256: 121554fc0fb502c5da49d94d731dba104fa5055eaa24485f48e4bd62494f8abe
@@ -503,7 +503,7 @@ Installed-Size: 152
 Depends: mobilesubstrate
 Depiction: https://skypain.github.io/repo/src/minilsp/Icon.png
 SileoDepiction: https://skypain.github.io/repo/src/minilsp/config/sileodepiction.json
-Filename: ./debs/com.skypain.minilsp_1.1.1-4_iphoneos-arm.deb
+Filename: ./debs/com.skypain.minilsp.deb
 MD5sum: 1d623b89683f9ce4e074de1676d12416
 SHA1: 7a01a1beb75e520d68f25e91194968bb17a45a57 
 SHA256: 7a40f4094289a67c5a26545284e13460bc376df32daba17aa46763ade7be2ec6
@@ -511,6 +511,6 @@ SHA512: e02aba9e5d441e23ce83961bfb41fe61d3e584a4bc9c662d716715332d4848d1ddc6ce4b
 Size: 5704
 Description: Make the lock screen player more simplified and clean
 Name: MiniLSP
-Author:Mr.Zhang
+Author: Mr.Zhang
 
 
