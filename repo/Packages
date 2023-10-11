@@ -554,7 +554,7 @@ Author: MrGcGamer
 Package: ws.hbang.alderis
 Architecture: iphoneos-arm
 Version: 1.2.3
-Section: System,
+Section: System
 Maintainer: HashBang Products 
 Installed-Size: 2922
 Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), uikittools 
@@ -685,4 +685,42 @@ Size: 94086
 Description: Provides login, passed, and reboot, iostat, and sync
 Name: system-cmds 
 Author: Yo mama
+
+Package: com.gh0st5ive.effectwatchdogs
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Widgets
+Maintainer: gh0st5ive 
+Installed-Size: 35
+Depends: com.yourepo.gh0st5ive.resourcewidget
+Depiction: No Depictions
+SileoDepiction: No Depictions 
+Filename: ./debs/com.gh0st5ive.effectwatchdogs
+MD5sum: a8e0d91c3f1e6ce087b3f9a3e77b0507
+SHA1: 7d3419929afc45fb4ed17ea7c4964bcec9cda5fb
+SHA256: 8b5a91e0a6fc0fb1f3e8fad95ef8480bf6e3366b3bf72e83a12654fe124c9c46
+SHA512: c96cdbdd6790e649c5af79996c967d73f3575006238df86ec1df283299cca964c43b5738c4510098012b5cfc4d71dc0478334ab58e28fc588e77bdecd990a155
+Size: 116996
+Description: An customizable widget for xenHTML, the weather function only works on xenHTML 2.0 though, everything else works like a charm
+Name: EffectWatchdogs
+Author: gh0st5ive
+
+Package: com.yourepo.gh0st5ive.resourcewidget 
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Widgets
+Maintainer: gh0st5ive
+Installed-Size: 31
+Depends:  
+Depiction: No Depictions
+SileoDepiction: No Depictions 
+Filename: ./debs/com.yourepo.gh0st5ive.resourcewidget.deb
+MD5sum: acfd5ecfcf9d881de313fdd0852dab1f
+SHA1: baf2488d609c19985a2564126ad5ab8af697e707
+SHA256: 58db5421d928f8f3eef574d62396030dbf9225eeccadbcbe1654e50308bdb901
+SHA512: 26f1dd5a3bb2f8a5ffacf0c2921335c3a97c36b5f1e623e30dd5d698cf9c8de0d149872b54b87a041bf02b9af4454787a051986b7abdf2732b2b85a005ddca7e
+Size: 29920
+Description: A requirement for the EffectWatchdogs widget to work correctly
+Name: EffectWatchdogs-ResourceWidget
+Author: gh0st5ive
 
