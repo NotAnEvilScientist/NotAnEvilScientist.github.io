@@ -10,6 +10,7 @@ SileoDepiction: https://notanevilscientist.github.io/repo/depictions/xenhtml
 Filename: ./debs/com.matchstic.xenhtml.deb
 MD5sum: 1d623b89683f9ce4e074de1676d12416
 Size: 1377
+Description: A version of xenHTML that works with iOS 15, (XinaA15 only) for Dopamine Users, you might be able to use derootifier or xinamine patcher to get it working.
 
 Package: love.litten.amonglock
 Architecture: iphoneos-arm
