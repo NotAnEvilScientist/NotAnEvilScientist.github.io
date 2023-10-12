@@ -780,3 +780,21 @@ Size: 27440
 Description: Alternative to AppList
 Name: LibSparkAppList
 Author: Spark
+
+Package: me.kanam.ccnc
+Architecture: phones-arm
+Version: 1.0.1
+Section: ControlCenter
+Maintainer: Kanam
+Installed-Size: 150
+Depends: firmware (>= 13.0), com.opa334.ccsupport, mobilesubstrate (>= 0.9.5000). 
+Depiction: No Depictions
+SileoDepiction: No Depictions 
+Filename: ./debs/me.kanam.ccnc.deb
+MD5sum: 61acd7b7347698bdf498fff343aa044b
+SHA1:df639937de11faba4cb9b80ebfc4a6681502bafc 
+SHA256: 12812dad30e5f374f1a8128db03ae3a34c84e8a28861966c33d0d95c2db662d8
+SHA512: 77ca1bc06210c528db0b29f029c2fe6f7028120346f5e83f1836cfe33ebcf9820f944d2dd215e3edd13fc03ae10a8eab071dbb99fc815378
+Description: A control center module that when pressed, enables noise cancellation or transparency mode on airs pro, AirPods Pro 2, and possible AirPods Pro max (haven't tried it on the pro max's)
+Name: CCNC
+Author: Kanam
