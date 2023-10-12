@@ -724,3 +724,59 @@ Description: A requirement for the EffectWatchdogs widget to work correctly
 Name: EffectWatchdogs-ResourceWidget
 Author: gh0st5ive
 
+Package: com.lns.podsgrant
+Architecture: iphoneos-arm64
+Version: 0.3.0
+Section: Rootless Tweaks
+Maintainer: LNSSPsd
+Installed-Size: 616
+Depends: mobilesubstrate (>= 0.9.5000 
+Depiction: No Depictions
+SileoDepiction: No Depictions 
+Filename: ./debs/com.lns.podsgrant.deb
+MD5sum: a978a896f5f5363964164a9d6f8ca6ad
+SHA1: 7016ea40d7f14bd0c687008ee4a7c47acc06ecad
+SHA256: 12d59f1f1ed55510c497c28605d191a429bd8aa00d8425be6f097acdc9ba0804
+SHA512: 9e755ed2c042ddefac7317eebd2cd85499a0b922b38851da58023e15e05ebb3884b075cf43e7b71899d82c458f7d6678b26fd7e3d3ee841a7976aa1410cec863
+Size: 82384
+Description: A rootless version of PodsGrant: Allow AirPods Pro 2 to work on iOS versions older Thant 16.0, to check if your version is supported, visit https://github.com/LNSSPsd/PodsGrant 
+Name: PodsGrantRootless 
+Author: LNSSPsd
+
+package: xyz.cypwn.emeraldx
+Architecture: iphoneos-arm
+Version: 1.0.7
+Section: Tweaks
+Maintainer: Cypwn
+Installed-Size: 50
+Depends: firmware (>= 15.0), ws.hbang.alderis, com.spark.libsparkapplist, xinaa15
+Depiction: No Depictions
+SileoDepiction: No Depictions 
+Filename: ./debs/xyz.cypwn.emeraldx.deb
+MD5sum: bdf569d60958883cf8d0bb2d96d12f88
+SHA1: a885d150db741e158e393dee66826b7763d93055 
+SHA256: 5624c14cc172db346141bca1b9f5f7f18754b5a05911fa8953209cc5cf822172
+SHA512: a21870537e258d47a1461bbeb7e56e9fcf783842cb30e1f4ccec51fce3e89eaf7e5a32b96e6d8592f2a42589ee84c5ecf5dce0f4427068a7c774c8246dd77be5
+Size: 450146
+Description: A modified version of Emerald that only works with XinaA15
+Name: Emerald
+Author: Cypwn
+
+Package: com.spark.libsparkapplist 
+Architecture: iphoneos-arm
+Version: 1.0.10
+Section: System
+Maintainer: Spark
+Installed-Size: 404
+Depends:  
+Depiction: No Depictions
+SileoDepiction: No Depictions 
+Filename: ./debs/com.spark.libsparkapplist
+MD5sum: 7ea393c06401822def242bc36e4b93b3
+SHA1: 1fe0728cfabddba85543fe2d4a2390f18ccedc6b
+SHA256: 4f804a14a026ff8e64c19653ea605c637dc857c996d297c982e5b2f4a68a609b
+SHA512: 7924bb7583c1b6066047a20fc60d2ca553f6a1ecdfe7e1c9c6f7d1461770080a44f48f19390b0e301e151d7537e99a2c495a7d6447dd3720dff82dd8de547ae0
+Size: 27440
+Description: Alternative to AppList
+Name: LibSparkAppList
+Author: Spark
