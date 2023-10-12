@@ -682,7 +682,7 @@ SHA1: e69a0933943a19191ccfe766556e7ac0ae58e301
 SHA256: 5d657d85f7e57452b76037b78e1bd0ae64421309d7c1f43cff22a6e42d3adeaf
 SHA512: 7f2c759682c1211ceb94626a05b44f60e32a445a6952e77345ba82cfeca485e5e83adacb95516cbf62dd97a37ac665dc91cc2c4c382209626bfea1721a49ebdc
 Size: 94086
-Description: Provides login, passed, and reboot, iostat, and sync
+Description: Provides login, passwd, and reboot, iostat, and sync
 Name: system-cmds 
 Author: Yo mama
 
