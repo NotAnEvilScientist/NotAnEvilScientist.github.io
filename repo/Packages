@@ -798,3 +798,22 @@ SHA512: 77ca1bc06210c528db0b29f029c2fe6f7028120346f5e83f1836cfe33ebcf9820f944d2d
 Description: A control center module that when pressed, enables noise cancellation or transparency mode on airs pro, AirPods Pro 2, and possible AirPods Pro max (haven't tried it on the pro max's)
 Name: CCNC
 Author: Kanam
+
+Package: com.lazynagy.pulsar.deb
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Themes 
+Maintainer: Blyth3
+Installed-Size: 60
+Depends:  
+Depiction: No Depictions
+SileoDepiction: No Depictions 
+Filename: ./debs/com.lazynagy.pulsar.deb
+MD5sum: 3c741bead58592dd3b538ac14c4d94d1
+SHA1: f4f84e753e11f2d96a3c6447f45991f4f1a59cfe 
+SHA256: 8a2d5ff9b8455c42f3a512e13be1d6e0f5e0357041f159d52dc18edd694f4781
+SHA512: 1b3fe67dc44d173ae5a75225410eb2970c38374f407d8a9d78abdb24bc31e0b4b4646cf3ffbd08464ec576b48846f88a962edb0f241f800c6596cb6c2cd859bd
+Size: 12168536
+Description: A Theme for snowboard
+Name: Pulsar
+Author: Lazynagy
