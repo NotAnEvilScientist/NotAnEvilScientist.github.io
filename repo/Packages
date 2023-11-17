@@ -1180,3 +1180,22 @@ Size: 23698
 MD5sum: cf43420173d4a08d5d37358234b7ffe2
 SHA1: 4866cbba3b15ca04bebc2636464085ee1a7dbda4
 SHA256: 5b11155815d5f413442b78d5a6e5ba91d3353a7e7c2922c13d83a92cf3abcd32
+
+Package: com.p2kdev.nofocusindicatoronls.deb
+Architecture: iphones-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: p2kdev
+Installed-Size: 168
+Depends: mobilesubstrate
+Depiction: No Depictions
+SileoDepiction: No Depictions 
+Filename: ./debs/com.p2kdev.nofocusindicatoronls.deb
+MD5sum:d707a721b31ecb54f8ff39274fc3e156 
+SHA1: 02912fc2a34bfdd777be9a5b75c814e20edebc39 
+SHA256: 6324a04859649e4d99978989dfc7fbeb71beeb7548b063416cf5249697c0d5fa
+SHA512: 4c8dc9c077bc6f51a0882021ccb9af36f797d046da19c62570fa59d78155befed9614275894ea892a6ffc6bc1646a3729445b242d2bfc9a3c7eef986e5482620
+Size: 3528
+Description: Get rid of the pill that appears on your home screen when you enable do not disturb or other focus modes
+Name: NoFocusIndicaterOnLS
+Author: p2kdev
