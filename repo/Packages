@@ -35,7 +35,7 @@ Name: AmongLock
 Author: Litten & BigIlel
 Depiction: https://repo.litten.love/depictions/AmongLock/index.html
 SileoDepiction: https://repo.litten.love/depictions/AmongLock/index.json
-Icon: https://repo.litten.love/depictions/AmongLock/assets/icon.png
+Icon: https://github.com/NotAnEvilScientist/NotAnEvilScientist.github.io/blob/main/images/amonglock.png
 
 Package: love.litten.astolfo
 Architecture: iphoneos-arm
@@ -55,7 +55,7 @@ Name: Astolfo
 Author: Litten
 Depiction: https://repo.litten.love/depictions/Astolfo/index.html
 SileoDepiction: https://repo.litten.love/depictions/Astolfo/index.json
-Icon: https://repo.litten.love/depictions/Astolfo/assets/icon.png
+Icon: https://github.com/NotAnEvilScientist/NotAnEvilScientist.github.io/blob/main/images/astolfo.png
 
 Package: love.litten.avrora
 Architecture: iphoneos-arm
@@ -75,7 +75,7 @@ Name: Avrora
 Author: Litten
 Depiction: https://repo.litten.love/depictions/Avrora/index.html
 SileoDepiction: https://repo.litten.love/depictions/Avrora/index.json
-Icon: https://repo.litten.love/depictions/Avrora/assets/icon.png
+Icon: https://github.com/NotAnEvilScientist/NotAnEvilScientist.github.io/blob/main/images/avrora.png
 
 Package: love.litten.batterybuddy
 Architecture: iphoneos-arm
@@ -95,7 +95,7 @@ Name: BatteryBuddy
 Author: Litten & neilsardesai
 Depiction: https://repo.litten.love/depictions/BatteryBuddy/index.html
 SileoDepiction: https://repo.litten.love/depictions/BatteryBuddy/index.json
-Icon: https://repo.litten.love/depictions/BatteryBuddy/assets/icon.png
+Icon: https://github.com/NotAnEvilScientist/NotAnEvilScientist.github.io/blob/main/images/batterybuddy.png
 
 Package: love.litten.crystal
 Architecture: iphoneos-arm
@@ -115,7 +115,7 @@ Name: Crystal
 Author: Litten
 Depiction: https://repo.litten.love/depictions/Crystal/index.html
 SileoDepiction: https://repo.litten.love/depictions/Crystal/index.json
-Icon: https://repo.litten.love/depictions/Crystal/assets/icon.png
+Icon: https://github.com/NotAnEvilScientist/NotAnEvilScientist.github.io/blob/main/images/Crystal.png
 
 Package: love.litten.dejavu
 Architecture: iphoneos-arm
@@ -135,7 +135,7 @@ Name: Déjà Vu
 Author: Litten
 Depiction: https://repo.litten.love/depictions/DejaVu/index.html
 SileoDepiction: https://repo.litten.love/depictions/DejaVu/index.json
-Icon: https://repo.litten.love/depictions/DejaVu/assets/icon.png
+Icon: https://github.com/NotAnEvilScientist/NotAnEvilScientist.github.io/blob/main/images/dejavu.png
 
 Package: love.litten.diary
 Architecture: iphoneos-arm
@@ -156,7 +156,7 @@ Name: Diary
 Author: Litten
 Depiction: https://repo.litten.love/depictions/Diary/index.html
 SileoDepiction: https://repo.litten.love/depictions/Diary/index.json
-Icon: https://repo.litten.love/depictions/Diary/assets/icon.png
+Icon: https://github.com/NotAnEvilScientist/NotAnEvilScientist.github.io/blob/main/images/diary.png
 
 Package: love.litten.dress
 Architecture: iphoneos-arm
@@ -176,7 +176,7 @@ Name: Dress
 Author: Litten
 Depiction: https://repo.litten.love/depictions/Dress/index.html
 SileoDepiction: https://repo.litten.love/depictions/Dress/index.json
-Icon: https://repo.litten.love/depictions/Dress/assets/icon.png
+Icon: https://github.com/NotAnEvilScientist/NotAnEvilScientist.github.io/blob/main/images/dress.png
 
 Package: love.litten.eneko
 Architecture: iphoneos-arm
@@ -196,7 +196,7 @@ Name: Eneko
 Author: Litten
 Depiction: https://repo.litten.love/depictions/Eneko/index.html
 SileoDepiction: https://repo.litten.love/depictions/Eneko/index.json
-Icon: https://repo.litten.love/depictions/Eneko/assets/icon.png
+Icon: https://github.com/NotAnEvilScientist/NotAnEvilScientist.github.io/blob/main/images/eneko.png
 
 Package: love.litten.heartlines
 Architecture: iphoneos-arm
@@ -216,7 +216,7 @@ Name: Heartlines
 Author: Litten
 Depiction: https://repo.litten.love/depictions/Heartlines/index.html
 SileoDepiction: https://repo.litten.love/depictions/Heartlines/index.json
-Icon: https://repo.litten.love/depictions/Heartlines/assets/icon.png
+Icon: https://github.com/NotAnEvilScientist/NotAnEvilScientist.github.io/blob/main/images/heartlines.png
 
 Package: love.litten.juin
 Architecture: iphoneos-arm
