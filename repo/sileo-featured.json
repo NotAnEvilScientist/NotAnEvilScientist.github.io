@@ -1,0 +1,27 @@
+{
+	"class": "FeaturedBannersView",
+	"itemSize": "{296, 148}",
+	"itemCornerRadius": 10,
+	"banners": [
+		{
+			"url": "https://github.com/NotAnEvilScientist/NotAnEvilScientist.github.io/blob/main/repo/featured/LittenArchive.png",
+			"title": "LittenArchive",
+			"categories": "Littens Tweaks",
+			"hideShadow": false
+		},
+		{
+			"url": "https://github.com/NotAnEvilScientist/NotAnEvilScientist.github.io/blob/main/repo/featured/Gh0st5ive%20Widgets.png",
+			"title": "Ghost5ive",
+			"categories": "Widgets",
+			"hideShadow": false
+		},
+		{
+			"url": "https://github.com/NotAnEvilScientist/NotAnEvilScientist.github.io/blob/main/repo/featured/XenHTML.png",
+			"title": "XenHTML_15",
+			"package": "com.matchstic.xenhtml.deb",
+			"hideShadow": false
+		}
+
+	]
+
+}
