@@ -490,7 +490,7 @@ SHA1: 19de4ba08c6ae682ed76effa4164a954ff204d0
 SHA256: 121554fc0fb502c5da49d94d731dba104fa5055eaa24485f48e4bd62494f8abe
 SHA512: 121ea240e059e77c04dfebd63d89e17ff4c7887112e9246d085ce6960034a32be12ea014c1f01808a76903b0c334d11e25ebc664bf26b47d6f3240fc082ac850
 Size: 12100
-Description: An iMessage spamming client that appears in the top right of what ever chat you go into
+Description: An iMessage spamming client that appears in the top right of any texting group you go into in the messages app.
 Name: iflooder 
 Author: qwertyuiop1379
 
