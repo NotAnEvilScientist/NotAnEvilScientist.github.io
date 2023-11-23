@@ -13,7 +13,7 @@ SHA1: c8ce1bd4cbde1947682d8b502a47ba55fcc90a22
 SHA256: b23a8480b000954763ebc209e2db2d0b0d7cfce31b325028e22ae11ad4f3f38a
 SHA512: 26c2079496a1fc860f14260cdbd14dce4bdca79af23aa32f5002a937b0e52712daa4f2b507e8eaf3838d6c546157af661dfed83641d5c47d192b088e49ff85c0
 Size: 1377
-Description: A version of xenHTML that works with iOS 15, (XinaA15 only) for Dopamine and palera1n users, you might be able to use derootifier or xinamine patcher to get it working. Most widgets should work because this is the last version that was released before version 2.0. Also, its probably better to install this using Saily, or or another package manager other than sileo. Sileo gets stuck with the installation.
+Description: A version of xenHTML that works with iOS 15, (XinaA15 only) for Dopamine and palera1n users, you might be able to use derootifier or xinamine patcher to get it working. Most widgets should work because this is the last version that was released before version 2.0. Also, its probably better to install this using Saily, or another package manager other than sileo. Sileo gets stuck with the installation.
 Name: xenHTML
 Author: matchstic
 
