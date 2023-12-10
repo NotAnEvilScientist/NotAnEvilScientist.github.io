@@ -13,7 +13,7 @@ SHA1: c8ce1bd4cbde1947682d8b502a47ba55fcc90a22
 SHA256: b23a8480b000954763ebc209e2db2d0b0d7cfce31b325028e22ae11ad4f3f38a
 SHA512: 26c2079496a1fc860f14260cdbd14dce4bdca79af23aa32f5002a937b0e52712daa4f2b507e8eaf3838d6c546157af661dfed83641d5c47d192b088e49ff85c0
 Size: 1377
-Description: A version of xenHTML that works with iOS 15, (XinaA15 only) for Dopamine and palera1n users, you might be able to use derootifier or xinamine patcher to get it working. Most widgets should work because this is the last version that was released before version 2.0. Also, its probably better to install this using Saily, or or another package manager other than sileo. Sileo gets stuck with the installation.
+Description: A version of xenHTML that works with iOS 15, (XinaA15 only) for Dopamine and palera1n users, you might be able to use derootifier or xinamine patcher to get it working. Most widgets should work because this is the last version that was released before version 2.0. Also, its probably better to install this using Saily, or another package manager other than sileo. Sileo gets stuck with the installation.
 Name: xenHTML
 Author: matchstic
 
@@ -490,7 +490,7 @@ SHA1: 19de4ba08c6ae682ed76effa4164a954ff204d0
 SHA256: 121554fc0fb502c5da49d94d731dba104fa5055eaa24485f48e4bd62494f8abe
 SHA512: 121ea240e059e77c04dfebd63d89e17ff4c7887112e9246d085ce6960034a32be12ea014c1f01808a76903b0c334d11e25ebc664bf26b47d6f3240fc082ac850
 Size: 12100
-Description: An iMessage spamming client that appears in the top right of what ever chat you go into
+Description: An iMessage spamming client that appears in the top right of any texting group you go into in the messages app.
 Name: iflooder 
 Author: qwertyuiop1379
 
