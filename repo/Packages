@@ -1200,7 +1200,7 @@ Description: Get rid of the pill that appears on your home screen when you enabl
 Name: NoFocusIndicaterOnLS
 Author: p2kdev
 
-Package: Lydia-1-1-36-4-iphoneos-arm.deb
+Package: cydia-1-1-36-4-iphoneos-arm.deb
 Architecture: iphoneos-arm
 Version: 1.1.36-4
 Section: Applications
@@ -1210,8 +1210,8 @@ Depends: bzip2, darwintools, debianutils, dpkg (>= 1.19.1), gzip, sed, shell-cmd
 Conflicts: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, cydia-lproj, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd
 Depiction: No Depictions
 SileoDepiction: No Depictions 
-Filename: ./debs/Name.of.the.file
-MD5sum: MD5 (/Users/blythesissung/Desktop/cydia-1-1-36-4-iphoneos-arm.deb) = 7ce2aed9c7fa35bdd581c004912ab7d5
+Filename: ./debs/cydia-1-1-36-4-iphoneos-arm.deb
+MD5: 7ce2aed9c7fa35bdd581c004912ab7d5
 SHA1: 606b9472879be16495e2f08c55f73e2a0d70fcde
 SHA256: b08b7718b4a85b1ae6860f89a205838a9a705262a4c6c1d3a44e12ac9e0a84ad
 SHA512: 5689bd3bd9265b8c5e8f57ff155d53ac9a73bb166c6cdbca8b445118068fb872828ddf297802f4eff380b9e333c1cf032b5a9e17e410b0b016b65457bcaa2af4
