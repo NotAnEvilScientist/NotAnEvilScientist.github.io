@@ -1216,6 +1216,6 @@ SHA1: 606b9472879be16495e2f08c55f73e2a0d70fcde
 SHA256: b08b7718b4a85b1ae6860f89a205838a9a705262a4c6c1d3a44e12ac9e0a84ad
 SHA512: 5689bd3bd9265b8c5e8f57ff155d53ac9a73bb166c6cdbca8b445118068fb872828ddf297802f4eff380b9e333c1cf032b5a9e17e410b0b016b65457bcaa2af4
 Size: 1333614
-Description: A fixed version of Lydia for the palera1n jailbreak (Rootful only)
+Description: A fixed version of Cydia for the palera1n jailbreak (Rootful only)
 Name: Cydia_Fixed15
 Author: Jay Freeman
