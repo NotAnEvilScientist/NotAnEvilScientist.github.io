@@ -1219,3 +1219,25 @@ Size: 1333614
 Description: A fixed version of Cydia for the palera1n jailbreak (Rootful only)
 Name: Cydia_Fixed15
 Author: Jay Freeman
+
+Package: respringmodule_1.1.5.deb
+Architecture: phones-arm
+Version: 1.1.5
+Section: Tweaks
+Maintainer: Blyth3
+Installed-Size: 115
+Depends: mobilesubstrate, com.opa334.ccsupport
+Conflicts: 
+Depiction: No Depictions
+SileoDepiction: No Depictions 
+Filename: ./debs/respringmodule_1.1.5.deb
+MD5: 5cadcdbed61e61c3792fc85b4c110f10
+SHA1: 8dfff313ea16420549bf361895a8f40095c85f97
+SHA256: 7c46fd38622e795b41c52a45253e6b364f5efb2271071879f7f887f15a07fdb5 
+SHA512: b624a31b4ca2dfa999aa57f378f18418c33230465ffb1fe2e507d000fabb5dbece6662312d5ae45a859a28483f220c521fbb7cccfaa0ea5a6ed8485f510ef09f 
+Size: 11315
+Description: A useful control center module that restrings your device
+Name: Respring Module
+Author:
+
+
